@@ -1,7 +1,7 @@
 #  Hi, I’m Tytanium13
 ## I'm a high-school student and hobbyist developer looking for work in IT. 
 ### I’m interested in Python, and have been experimenting with the language since 2018
-### I have also been looking at learning C++, Java, Kotlin, and Golang.
+### I have also been looking at learning C++, Rust, Java, Kotlin, and Golang.
 
 ---
 
